@@ -1,0 +1,17 @@
+body{
+    background-color: saddlebrown;
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+}
+
+.origami{
+    border-radius: 30px;
+    background-color: grey ;
+    width:300px
+}
+
+.header{
+    background-image:url("wood.jpg") ;
+}
